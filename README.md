@@ -2,8 +2,8 @@
 - 📫 miraycobanogluu@gmail.com
 - linkedln: Miray Çobanoğlu
 
-Bilgisayar mühendisliği 2.sınıf öğrencisiyim. 
+Bilgisayar mühendisligi 2.sınıf ogrencisiyim. 
 Temel seviyede c#, c, c++ bilgim var. 
-html, css, bootstrap, tailwind ve js üzerine kendimi geliştirmekteyim. 
-Bildiklerimle ufak çaplı projeler deniyorum. 
-Güncel olarak react.js öğrenme aşamasındayım. 
+html, css, bootstrap, tailwind ve javaScript'de kendimi gelistirmekteyim. 
+Bildiklerimle ufak caplı projeler deniyorum. 
+Guncel olarak react.js öğrenme asamasındayım. 
