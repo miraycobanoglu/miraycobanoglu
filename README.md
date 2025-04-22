@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @miraycobanoglu
 - 📫 miraycobanogluu@gmail.com
-- linkedln: Miray Çobanoğlu
+- linkedln: linkedin.com/in/miray-çobanoğlu-b39927295/
 
 
  
