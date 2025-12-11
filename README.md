@@ -2,7 +2,7 @@
 - 📫 miraycobanogluu@gmail.com
   
 - 
-  <a href="https://www.linkedin.com/in/https://tr.linkedin.com/in/miray-%C3%A7obano%C4%9Flu-b39927295/" target="_blank">
+  <a href="https://www.linkedin.com/in/https://[tr.linkedin.com/in/miray-%C3%A7obano%C4%9Flu-b39927295](https://www.linkedin.com/in/miray-%C3%A7obano%C4%9Flu-b39927295/?originalSubdomain=tr)/" target="_blank">
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="35" height="35"/>
    </a>
 
